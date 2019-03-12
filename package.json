@@ -1,0 +1,30 @@
+{
+  "name": "teste-tomatico-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "3.9.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^4.0.0",
+    "gulp-cache": "^1.1.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-useref": "^3.1.6",
+    "gulp-version-number": "^0.2.3",
+    "merge-stream": "^1.0.1",
+    "path": "^0.12.7",
+    "run-sequence": "^2.2.1"
+  }
+}
